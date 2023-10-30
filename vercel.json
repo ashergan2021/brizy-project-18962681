@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/sign-up","dest":"/sign-up.html"},{"src":"/send-welcome-email","dest":"/send-welcome-email.html"},{"src":"/thank-you","dest":"/thank-you.html"},{"src":"/student-plan-signup","dest":"/student-plan-signup.html"},{"src":"/login","dest":"/login.html"},{"src":"/panel","dest":"/panel.html"},{"src":"/blog","dest":"/blog.html"}]}
